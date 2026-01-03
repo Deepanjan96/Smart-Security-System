@@ -16,3 +16,4 @@ DESCRIPTION: A SECURITY SYSTEM THAT DETECTS MOTION, CAPTURES IMAGES, AND SENDS A
 
 OUTPUTS:
 
+<img width="940" height="847" alt="Image" src="https://github.com/user-attachments/assets/29e331ad-6536-416e-9e29-e24db8f2b382" />
